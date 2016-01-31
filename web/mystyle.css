@@ -1,0 +1,320 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 30, 2015, 2:15:08 PM
+    Author     : mayank
+*/
+header {
+	color:crimson;
+        border-radius:4px;
+        border:cornflowerblue;
+	text-align: center;
+   	border: grey;
+	font-family:fantasy;
+		font-size: 75px; 
+              background-image:url("bg1.jpeg"); 
+	background-repeat:repeat-x;
+	
+       
+	
+	height: 200px;
+	
+
+}
+.reg{
+    height:100px;
+    padding:5px;
+    width:200px;
+}.login{
+    height:50px;
+    padding:5px;
+    width:100px;
+}
+
+p{
+	font-size:20px;
+}
+a.navbar{
+	color: silver;
+	font-size: 25px;
+	margin-left: 100px;
+	font-weight: bold;	
+	text-decoration: none;
+
+}
+.logo{
+        float:left;
+       height: 100px;
+}
+.navbar:hover{
+	color:yellow;
+        opacity:.5;
+}
+
+nav {
+    
+	font-family: 'agency fb';
+		background:crimson;
+    position:relative;
+	width: 100%;
+	height:40px;
+	 font-family: "Times New Roman", Times, serif;
+	opacity:.80;
+}.leftcol {
+    width:170px;
+     float:left;
+     border-color:navy;
+     border-width:5px;
+    
+    opacity:55%;
+        
+ }
+
+.polaroid {
+    width:930px
+    height:auto;
+    float:left;
+       
+ }
+
+.polaroid img {
+    border: 20px solid #fff;
+    border-bottom: 75px solid #fff;
+    -webkit-box-shadow: 5px 5px 5px #778;
+    -moz-box-shadow: 5px 5px 5px #778;
+    box-shadow: 5px 5px 5px #778;
+  }
+body {
+   
+        -webkit-box-shadow: 
+      inset 0 0 8px  rgba(0,0,0,0.1),
+            0 0 16px rgba(0,0,0,0.1); 
+    -moz-box-shadow: 
+      inset 0 0 8px  rgba(0,0,0,0.1),
+            0 0 16px rgba(0,0,0,0.1); 
+    box-shadow: 
+      inset 0 0 8px  rgba(0,0,34,0.1),
+            0 0 16px rgba(0,0,0,0.1); 
+		width: 100%;
+	color:black;
+	   font-size: 100%;
+	font-family: 'agency fb';
+}
+.one{
+	color:#0066ff;
+    	margin-bottom: 0;
+	padding-top:20px;
+	 margin-top: 0;
+	margin-right: 40px;
+	padding-left: 40px;
+	text-align: left;
+   	border: crimson;
+        border-width:5px;
+	font-family: 'agency fb'; 
+		font-size: 20px; 
+	
+	display: block;
+	width: 100%;
+	height:50%; }
+#button2{
+	background:darkred;
+	
+	margin-top: 40px;
+}
+
+
+#button2:hover{
+	background-color: grey;}
+.image1{align: left;
+            border-color:purple;
+		height: 50%;
+		margin-top: 0px;
+		margin-right: 40px;
+		padding-bottom: none;
+		margin-bottom: none;
+		float: left;
+		shape: circle;
+	width: 50%;
+        onmouseover{width: 60%;
+                    height: 60%;
+        }
+}
+.image2{
+		align: right;
+		padding-bottom: none;
+		margin-bottom: none;
+		margin-left: 40px;
+		float: right;
+		width: 50%;
+	height:50%
+		
+}
+.two{
+	color:#0066ff;
+    	margin-bottom: 0;
+	padding-top:20;
+	margin-top: 0;
+	padding-left: 40px;
+	text-align: right;
+   	border: grey;
+	font-family: 'agency fb'; 
+	font-size: 20px; 
+	display: block;
+	width: 100%;
+	height:50%; }
+
+.image2{
+		align: right;
+		margin-left: 40px;
+		
+}
+.three{
+	height: 250px;width: 100%;
+	color:black;}	
+.button {
+	background-color: crimson;
+	-moz-border-radius:28px;
+	-webkit-border-radius:28px;
+	border-radius:28px;
+	margin: 10px;
+	border:0px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 20px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #5b8a3c;
+}
+.button:hover{
+	background-color: darkred;
+}
+#reg{
+	height: 1200px;
+	font-size: 15px;
+	padding-top: 20px;
+}
+input {
+    border: 2px solid #0099ff; 
+	align: right;
+    -webkit-box-shadow: 
+      inset 0 0 8px  rgba(0,0,0,0.1),
+            0 0 16px rgba(0,0,0,0.1); 
+    -moz-box-shadow: 
+      inset 0 0 8px  rgba(0,0,0,0.1),
+            0 0 16px rgba(0,0,0,0.1); 
+    box-shadow: 
+      inset 0 0 8px  rgba(0,0,0,0.1),
+            0 0 16px rgba(0,0,0,0.1); 
+    padding: 5px;
+    background:white;
+     
+    margin: 5px 5px 5px 5px;
+	border-radius: 10px;
+}
+
+.right
+{
+    float: right;
+}
+.label1 {
+    border: 5px solid white; 
+	align: right;
+    -webkit-box-shadow: 
+      inset 0 0 8px  rgba(0,0,0,0.1),
+            0 0 16px rgba(0,0,0,0.1); 
+    -moz-box-shadow: 
+      inset 0 0 8px  rgba(0,0,0,0.1),
+            0 0 16px rgba(0,0,0,0.1); 
+    box-shadow: 
+      inset 0 0 8px  rgba(0,0,0,0.1),
+            0 0 16px rgba(0,0,0,0.1); 
+    padding: 5px;
+    background: rgba(255,255,255,0.5);
+    margin: 0 0 5px 0;
+	border-radius: 60px;
+}
+h1{
+	text-align: center;
+	font-size: 30px;
+}
+
+fieldset{
+	width: 40%;
+	text-align: left;
+	align: center;
+	background: #e0d6cc;
+	border-radius: 5px;
+	border: 2px solid white;
+        
+	
+	box-shadow:-2px -2px 9px rgba(0, 0, 0, 0.7), 
+         -4px -4px 20px rgba(0, 0, 0, 0.4);
+	}
+.button3{
+    border:1px solid black;
+  border-radius:8px;
+  width:70px;
+  height:45px;
+  background:-webkit-linear-gradient(top,  #2c354e 0%,#576a97 100%);
+  z-index:2;}
+table{
+        background-color: grey;
+        
+        padding: 5px;
+        z-index:5;
+        
+        
+}
+
+.table1{
+    background:whitesmoke;
+    border: solid black 1px;
+    height:250px;
+    width:500px;
+    text-align:center;
+    size:30px;
+    
+    }
+th{
+    border: black solid;
+    background:white;
+    
+    //border: solid black 0.5px;
+    
+}
+.td1{
+     border: solid black 0.5px;
+     border-bottom:none;
+     background:white;
+     
+}
+.td2{
+        border: solid black 0.5px;
+        border-top:none;
+        background:white;
+}
+tr{
+    padding: 5px;
+       z-index:2;
+       background:white;
+       
+      // border: solid black 0.5px;
+       //border-width:5px;
+       //border-color: black;
+}
+.headrow{
+    background:crimson;
+}
+td{
+   // background-color:crimson;
+    padding: 5px;
+    z-index:2;
+   // border: solid black 0.5px;
+    //border-width:2px;
+    //   border-color: black;
+}
